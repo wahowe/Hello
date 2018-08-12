@@ -2,7 +2,6 @@
 
 <h4 id="导言">导言：</h4>
 <ol>
-  <li>搞机--不搞不知道，一搞真奇妙；</li>
   <li>部分软件安装前手机需root<a href="https://baike.baidu.com/item/root/73226"><sup>[名词解释]</sup></a>；</li>
   <li>每一个神级的黑科技APP将带给您飞一般超级享受，发誓您一定会喜欢的！</li>
 </ol>
@@ -53,12 +52,12 @@
   <li><a href="https://www.coolapk.com/apk/me.zpp0196.qqsimple">QQ精简模块</a></li>
 </ul>
 
-<h4 id="安卓微信6.5.16">微信6.5.16高级版_内置抢红包、防撤回等插件</h4>
+<h4 id="安卓微信6.6.3">微信6.6.3+高级版_内置抢红包、防撤回等插件</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1c2hcJOs">安卓微信6.5.16高级版</a></li>
+  <li><a href="https://pan.baidu.com/s/1c2hcJOs">安卓微信6.6.3+高级版</a></li>
 </ul>
 
-<h4 id="微信多开">微信多开_微信15多开，支持6.6.5，同步你手机微信主版本</h4>
+<h4 id="微信多开">微信多开_微信15多开，支持6.7.0，同步你手机微信主版本</h4>
 <ul>
   <li><a href="https://pan.baidu.com/s/1lxhu-8gslgwpSRAeCIkXEQ">安卓微信15多开</a></li>
 </ul>
