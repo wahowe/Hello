@@ -52,6 +52,11 @@
   <li><a href="https://www.coolapk.com/apk/me.zpp0196.qqsimple">QQ精简模块</a></li>
 </ul>
 
+<h4 id="公众号视频音频提取工具">公众号视频音频提取工具</h4>
+<ul>
+  <li><a href="https://pan.baidu.com/s/1jJO3bR9nFPXXOx4gr-uvhQ">安卓微信公众号视频音频提取工具</a></li>
+</ul>
+
 <h4 id="安卓微信6.6.3">微信6.6.3+高级版_内置抢红包、防撤回等插件</h4>
 <ul>
   <li><a href="https://pan.baidu.com/s/1c2hcJOs">安卓微信6.6.3+高级版</a></li>
