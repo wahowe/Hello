@@ -62,7 +62,7 @@
   <li><a href="https://pan.baidu.com/s/1c2hcJOs">安卓微信6.6.3+高级版</a></li>
 </ul>
 
-<h4 id="微信多开">微信多开_微信15多开，支持6.7.0，同步你手机微信主版本</h4>
+<h4 id="微信多开">微信多开_微信15多开，同步你手机微信主版本</h4>
 <ul>
   <li><a href="https://pan.baidu.com/s/1lxhu-8gslgwpSRAeCIkXEQ">安卓微信15多开</a></li>
 </ul>
