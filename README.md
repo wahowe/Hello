@@ -47,9 +47,9 @@
   <li><a href="https://www.coolapk.com/apk/site.cyningxu.grouphelper">微信分组模块</a></li>
 </ul>
 
-<h4 id="QQ精简">QQ精简模块_自定义隐藏QQ各种逻辑啰嗦花里花哨的条条显示，净化QQ页面，Xposed模块</h4>
+<h4 id="QQ净化">QQ净化模块_自定义隐藏QQ各种啰哩啰嗦花里花哨的条条显示，净化QQ各页面，Xposed模块</h4>
 <ul>
-  <li><a href="https://www.coolapk.com/apk/me.zpp0196.qqsimple">QQ精简模块</a></li>
+  <li><a href="https://github.com/zpp0196/QQPurify/releases">QQ净化模块</a></li>
 </ul>
 
 <h4 id="公众号视频音频提取工具">公众号视频音频提取工具</h4>
