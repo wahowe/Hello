@@ -109,7 +109,7 @@
 
 <h4 id="X商店">Xposed框架模块商店</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1ZUbC073O3WTLohHODB2Ynw">Xposed框架模块商店</a></li>
+  <li><a href="https://pan.baidu.com/s/1ZUbC073O3WTLohHODB2Ynw">Xposed框架模块商店客户端</a></li>
 </ul>
 
 <h4 id="微信助手">[Windows]微信支付宝收款监控</h4>
