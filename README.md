@@ -24,7 +24,7 @@
 <ul>
   <li><a href="https://github.com/android-hacker/VirtualXposed/releases">Github发布页</a></li>
   <li><a href="http://vxposed.com/">VirtualXposed官网</a></li>
-  <li><a href="https://pan.baidu.com/s/1htWihne">VirtualXposed/EXposed太极百度网盘下载</a></li>
+  <li><a href="https://taichi.cool/README_CN.html">太极官网</a></li>
 </ul>
 
 <h4 id="supersu">SuperSU超级授权<sup>[需root]</sup>_对安卓设备Root后进行权限管理</h4>
