@@ -41,7 +41,7 @@
 
 <h4 id="WXQX">微X和QX_微信QQ一键转发、抢红包、防撤回等增强功能，Xposed模块，fkzhang大神精品</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1Ey3xkq8vmjCmTJWvhjJIDQ#list/path=%2Freleases%2Fapk&parentPath=%2Freleases">微X和QX</a></li>
+  <li><a href="https://pan.lanzou.com/b44314">微X和QX</a></li>
 </ul>
 
 <h4 id="微信跳一跳助手">微信跳一跳助手，跳一跳导线辅助，Xposed模块</h4>
