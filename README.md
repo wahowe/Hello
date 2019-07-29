@@ -20,11 +20,18 @@
   <li><a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Magisk框架及卸载包最新版</a></li>  
 </ul>
 
-<h4 id="VirtualXposed">VirtualXposed/EXposed太极_免解锁、免root、免修改系统使用Xposed模块及多开软件</h4>
+<h4 id="taichi">太极_免解锁、免root、免修改系统使用Xposed模块及多开软件</h4>
+<ul>
+  <li><a href="https://taichi.cool/README_CN.html">Github发布页</a></li>
+  <li><a href="https://www.taichi-app.com">太极官网</a></li>
+  <li><a href="https://www.lanzous.com/b632846">太极APP网盘下载</a></li>
+</ul>
+
+<h4 id="VirtualXposed">VirtualXposed_免解锁、免root、免修改系统使用Xposed模块及多开软件</h4>
 <ul>
   <li><a href="https://github.com/android-hacker/VirtualXposed/releases">Github发布页</a></li>
   <li><a href="http://vxposed.com/">VirtualXposed官网</a></li>
-  <li><a href="https://www.taichi-app.com">太极官网</a></li>
+  <li><a href="https://www.lanzous.com/b633812">VirtualXposed网盘下载</a></li>
 </ul>
 
 <h4 id="supersu">SuperSU超级授权<sup>[需root]</sup>_对安卓设备Root后进行权限管理</h4>
