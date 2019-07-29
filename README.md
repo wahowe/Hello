@@ -141,7 +141,8 @@
 
 <h4 id="友情链接">友情链接：</h4>
 <ol>
-  <li><a href="http://xposed.appkg.com/">Xposed框架中文站</a></li>
+  <li><a href="http://xposed.appkg.com/">Xposed框架中文站</a></li> 
+  <li><a href="https://repo.xposed.info/module-overview">Xposed模块下载站</a></li>
   <li><a href="http://www.52pojie.cn">吾爱破解论坛</a></li>
   <li><a href="http://bbs.zhiyoo.com">智友论坛</a></li>
   <li><a href="http://bbs.gfan.com">机锋论坛</a></li>
