@@ -111,7 +111,7 @@
 
 <h4 id="双开助手">双开多开助手_微信、QQ及软件双开多开</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1hr6ZMeC">多开助手</a></li>
+  <li><a href="https://pan.baidu.com/s/1VvjlE8Ti47X2czcLfdHbTA">多开助手</a></li>
 </ul>
 
 <h4 id="X商店">Xposed框架模块商店</h4>
