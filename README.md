@@ -2,7 +2,7 @@
 
 <h4 id="导言">导言：</h4>
 <ol>
-  <li>部分软件安装前手机需root<a href="https://baike.baidu.com/item/root/73226"><sup>[名词解释]</sup></a>；</li>
+  <li>部分软件安装前手机需解锁BL<a href="https://baike.baidu.com/item/BootLoader/8733520?fr=aladdin"><sup>[名词解释]</sup></a>或root<a href="https://baike.baidu.com/item/root/73226"><sup>[名词解释]</sup></a>；</li>
   <li>每一个神级的黑科技APP将带给您飞一般超级享受，发誓您一定会喜欢的！</li>
 </ol>
 
