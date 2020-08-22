@@ -44,6 +44,11 @@
   <li><a href="https://pan.lanzou.com/b44314">微X和QX</a></li>
 </ul>
 
+<h4 id="iPhoneSHSH2">苹果iPhone手机SHSH2备份_苹果手机降级必备</h4>
+<ul>
+  <li><a href="https://tsssaver.1conan.com">苹果iPhone手机在线SHSH2备份</a></li>
+</ul>
+
 <h4 id="微信跳一跳助手">微信跳一跳助手，跳一跳导线辅助，Xposed模块</h4>
 <ul>
   <li><a href="https://pan.baidu.com/s/1im3w-f1ETkkst-HvIWq5vg">微信跳一跳助手</a></li>
@@ -146,6 +151,7 @@
   <li><a href="http://www.52pojie.cn">吾爱破解论坛</a></li>
   <li><a href="http://bbs.zhiyoo.com">智友论坛</a></li>
   <li><a href="http://bbs.gfan.com">机锋论坛</a></li>
+  <li><a href="https://www.feng.com">威锋iPhone论坛</a></li>
 </ol>
 
 <div align="center">科技引领生活 
