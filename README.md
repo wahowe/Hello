@@ -69,11 +69,6 @@
   <li><a href="https://pan.baidu.com/s/1jJO3bR9nFPXXOx4gr-uvhQ">安卓微信公众号视频音频提取工具</a></li>
 </ul>
 
-<h4 id="安卓微信6.6.3">微信6.6.3+高级版_内置抢红包、防撤回等插件</h4>
-<ul>
-  <li><a href="https://pan.baidu.com/s/1c2hcJOs">安卓微信6.6.3+高级版</a></li>
-</ul>
-
 <h4 id="微信多开">微信多开_微信15多开，同步你手机微信主版本</h4>
 <ul>
   <li><a href="https://pan.baidu.com/s/1lxhu-8gslgwpSRAeCIkXEQ">安卓微信15多开</a></li>
@@ -114,9 +109,9 @@
   <li><a href="https://pan.baidu.com/s/16bm3gRnEKOuMxdC7sf4ZXw">钛备份</a></li>
 </ul>
 
-<h4 id="双开助手">双开多开助手_微信、QQ及软件双开多开</h4>
+<h4 id="双开软件">双开多开软件_微信、QQ及软件双开多开</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1VvjlE8Ti47X2czcLfdHbTA">多开助手</a></li>
+  <li><a href="https://pan.baidu.com/s/1A1yNdoHZcwaw5c7kHGGypQ">多开软件_提取码：biqa</a></li>
 </ul>
 
 <h4 id="X商店">Xposed框架模块商店</h4>
