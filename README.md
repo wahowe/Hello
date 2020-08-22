@@ -20,7 +20,7 @@
   <li><a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Magisk框架及卸载包最新版</a></li>  
 </ul>
 
-<h4 id="taichi">太极_免解锁、免root、免修改系统使用Xposed模块及多开软件</h4>
+<h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块</h4>
 <ul>
   <li><a href="https://taichi.cool/README_CN.html">Github发布页</a></li>
   <li><a href="https://www.taichi-app.com">太极官网</a></li>
