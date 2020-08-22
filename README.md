@@ -22,8 +22,8 @@
 
 <h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块</h4>
 <ul>
-  <li><a href="https://taichi.cool/README_CN.html">Github发布页</a></li>
-  <li><a href="https://www.taichi-app.com">太极官网</a></li>
+  <li><a href="https://taichi.cool/zh/">太极官网</a></li>
+  <li><a href="https://www.taichi-app.com">太极新官网</a></li>
   <li><a href="https://www.lanzous.com/b632846">太极APP网盘下载</a></li>
 </ul>
 
