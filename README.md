@@ -14,7 +14,7 @@
   <li><a href="https://dl-xda.xposed.info/framework/">Xposed刷机包及卸载包</a></li>
 </ul>
 
-<h4 id="Magisk框架">Magisk框架<sup>[需root]</sup>_类Xposed框架，集成了root功能，既能OTA又能修改系统卸载预装软件</h4>
+<h4 id="Magisk框架">Magisk框架<sup>[需解锁BL]</sup>_类Xposed框架，集成了root功能，既能OTA又能修改系统卸载预装软件</h4>
 <ul>
   <li><a href="https://github.com/topjohnwu/Magisk/releases">Github发布页</a></li>
   <li><a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Magisk框架及卸载包最新版</a></li>  
