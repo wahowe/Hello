@@ -35,11 +35,6 @@
   <li><a href="https://www.lanzous.com/b633812">VirtualXposed网盘下载</a></li>
 </ul>
 
-<h4 id="supersu">SuperSU超级授权<sup>[需root]</sup>_对安卓设备Root后进行权限管理</h4>
-<ul>
-  <li><a href="http://www.supersu.com/download">SuperSU超级授权</a></li>
-</ul>
-
 <h4 id="Spatch">Spatch天鉴</h4>
 <ul>
   <li><a href="http://spatch.die.lu">天鉴官网</a></li>
@@ -77,6 +72,11 @@
 <h4 id="上帝模式">上帝模式_屏蔽不喜欢的控件，Xposed模块</h4>
 <ul>
   <li><a href="https://www.coolapk.com/apk/com.viewblocker.jrsen">上帝模式</a></li>
+</ul>
+
+<h4 id="supersu">SuperSU超级授权<sup>[需root]</sup>_对安卓设备Root后进行权限管理</h4>
+<ul>
+  <li><a href="http://www.supersu.com/download">SuperSU超级授权</a></li>
 </ul>
 
 <h4 id="幸运破解器">幸运破解器LuckyPatcher<sup>[需root]</sup>_核心破解，软件破解，去广告等，Xposed模块</h4>
