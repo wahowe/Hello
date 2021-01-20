@@ -85,17 +85,12 @@
 
 <h4 id="核心破解">核心破解_降级安装app及覆盖安装不同签名软件，Xposed模块</h4>
 <ul>
-  <li><a href="https://www.coolapk.com/apk/com.coderstory.toolkit">核心破解</a></li>
+  <li><a href="https://wwi.lanzous.com/b00ej00ed">核心破解</a></li>
 </ul>
 
 <h4 id="公众号视频音频提取工具">公众号视频音频提取工具</h4>
 <ul>
   <li><a href="https://pan.baidu.com/s/1jJO3bR9nFPXXOx4gr-uvhQ">安卓微信公众号视频音频提取工具</a></li>
-</ul>
-
-<h4 id="欧加资源">吴大神欧加玩机资源（刷机、root、rec等工具）</h4>
-<ul>
-  <li><a href="http://wuxianlin.com/">OPPO/一加玩机资源下载</a></li>
 </ul>
 
 <h4 id="FFmpeg媒体编码器">FFmpeg Media Encoder媒体编码器_视频压缩神器</h4>
@@ -111,6 +106,17 @@
 <h4 id="双开软件">双开多开软件_微信、QQ及软件双开多开</h4>
 <ul>
   <li><a href="https://pan.baidu.com/s/1Tr8iO6qcHryx4K536TmvnA">多开软件_提取码：6666</a></li>
+</ul>
+
+
+<h4 id="Xposed模块仓库">Xposed模块仓库_Xposed模块下载基地</h4>
+<ul>
+  <li><a href="https://repo.xposed.info/module-overview">Xposed模块仓库</a></li>
+</ul>
+
+<h4 id="欧加资源">吴大神欧加玩机资源（刷机、root、rec等工具）</h4>
+<ul>
+  <li><a href="http://wuxianlin.com/">OPPO/一加玩机资源下载</a></li>
 </ul>
 
 <br>
