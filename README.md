@@ -10,7 +10,8 @@
 
 <h4 id="Xposed框架">Xposed框架<sup>[需root]</sup></h4>
 <ul>
-  <li><a href="https://forum.xda-developers.com/showthread.php?t=3034811">XposedInstaller3.1.5最新版</a></li>
+  <li><a href="https://forum.xda-developers.com/showthread.php?t=3034811">XposedInstaller3.1.5</a></li>
+  <li><a href="https://www.coolapk.com/apk/de.robv.android.xposed.installer">XposedInstaller3.1.5酷安发布页</a></li>
   <li><a href="https://dl-xda.xposed.info/framework/">Xposed刷机包及卸载包</a></li>
 </ul>
 
