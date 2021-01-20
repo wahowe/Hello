@@ -55,7 +55,7 @@
 <ul>
   <li><a href="https://wwi.lanzous.com/b0d7o8kwf">微X和QX</a></li>
   <li><a href="http://0i.gs/fkz">微X、QX和微信适配版本下载</a></li>
-  <li><a href="https://pan.lanzou.com/b44314">网盘2</a></li>
+  <li><a href="https://pan.lanzou.com/b44314">网盘</a></li>
 </ul>
 
 <h4 id="QNotified模块">QNotified_QQ之Xposed模块</h4>
