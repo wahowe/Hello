@@ -48,7 +48,7 @@
 
 <h4 id="iPhoneSHSH2">★苹果iPhone手机SHSH2备份_苹果手机降级必备</h4>
 <ul>
-  <li><a href="https://tsssaver.1conan.com">★苹果iPhone手机在线SHSH2备份</a></li>
+  <li><a href="https://tsssaver.1conan.com/v2/">★苹果iPhone手机在线SHSH2备份</a></li>
 </ul>
 
 <h4 id="微信跳一跳助手">微信跳一跳助手，跳一跳导线辅助，Xposed模块</h4>
@@ -71,9 +71,10 @@
   <li><a href="https://pan.baidu.com/s/1jJO3bR9nFPXXOx4gr-uvhQ">安卓微信公众号视频音频提取工具</a></li>
 </ul>
 
-<h4 id="微信多开">微信多开_微信15多开，同步你手机微信主版本</h4>
+<h4 id="运动修改器">运动修改器_运动步数修改Xposed模块</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1lxhu-8gslgwpSRAeCIkXEQ">安卓微信15多开</a></li>
+  <li><a href="https://pan.baidu.com/s/17OLiYeQ50n-rxhVHv6wBiQ">运动修改器 提取码:j1hq</a></li>
+  <li><a href="https://pan.baidu.com/s/1RbrlR4oLxVNwv6vmps9vZg">运动修改器去劫持版 提取码:iuc9</a></li>
 </ul>
 
 <h4 id="上帝模式">上帝模式_屏蔽不喜欢的控件，Xposed模块</h4>
@@ -121,9 +122,9 @@
   <li><a href="https://pan.baidu.com/s/1ZUbC073O3WTLohHODB2Ynw">Xposed框架模块商店客户端</a></li>
 </ul>
 
-<h4 id="微信助手">[Windows]微信支付宝收款监控</h4>
+<h4 id="QNotified模块">QNotified_QQ之Xposed模块</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1QGyI00bVJQx01AqM2p-jYw">微信支付宝收款监控</a></li>
+  <li><a href="https://taycke.lanzous.com/b00zlv3zg">QNotified模块</a></li>
 </ul>
 
 <h4 id="微信助手">[Windows]微信助手_集客服群管/消息群发/加好友/清理僵尸粉于一身的微商必备微信神器</h4>
