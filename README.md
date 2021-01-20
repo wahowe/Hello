@@ -62,24 +62,10 @@
   <li><a href="https://tsssaver.1conan.com/v2/">★苹果iPhone手机在线SHSH2备份</a></li>
 </ul>
 
-<h4 id="微信跳一跳助手">微信跳一跳助手，跳一跳导线辅助，Xposed模块</h4>
-<ul>
-  <li><a href="https://pan.baidu.com/s/1im3w-f1ETkkst-HvIWq5vg">微信跳一跳助手</a></li>
-</ul>
 
 <h4 id="微信分组模块">微信分组模块_将微信联系人进行分组管理，Xposed模块</h4>
 <ul>
-  <li><a href="https://www.coolapk.com/apk/site.cyningxu.grouphelper">微信分组模块</a></li>
-</ul>
-
-<h4 id="QQ净化">QQ净化模块_自定义隐藏QQ各种啰哩啰嗦花里花哨的条条显示，净化QQ各页面，Xposed模块</h4>
-<ul>
-  <li><a href="https://github.com/zpp0196/QQPurify/releases">QQ净化模块</a></li>
-</ul>
-
-<h4 id="公众号视频音频提取工具">公众号视频音频提取工具</h4>
-<ul>
-  <li><a href="https://pan.baidu.com/s/1jJO3bR9nFPXXOx4gr-uvhQ">安卓微信公众号视频音频提取工具</a></li>
+  <li><a href="https://pan.baidu.com/s/1s3FPSPkMCu-v3jNZNkmmzQ">微信分组模块 提取码:ejvk</a></li>
 </ul>
 
 <h4 id="上帝模式">上帝模式_屏蔽不喜欢的控件，Xposed模块</h4>
@@ -100,6 +86,11 @@
 <h4 id="核心破解">核心破解_降级安装app及覆盖安装不同签名软件，Xposed模块</h4>
 <ul>
   <li><a href="https://www.coolapk.com/apk/com.coderstory.toolkit">核心破解</a></li>
+</ul>
+
+<h4 id="公众号视频音频提取工具">公众号视频音频提取工具</h4>
+<ul>
+  <li><a href="https://pan.baidu.com/s/1jJO3bR9nFPXXOx4gr-uvhQ">安卓微信公众号视频音频提取工具</a></li>
 </ul>
 
 <h4 id="欧加资源">吴大神欧加玩机资源（刷机、root、rec等工具）</h4>
