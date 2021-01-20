@@ -81,7 +81,7 @@
 
 <h4 id="幸运破解器">幸运破解器LuckyPatcher<sup>[需root]</sup>_核心破解，软件破解，去广告等，Xposed模块</h4>
 <ul>
-  <li><a href="https://pan.baidu.com/s/1oAgMQwE">幸运破解器LuckyPatcher</a></li>
+  <li><a href="https://www.wenshushu.cn/box/3z7nl7mey08/folder/44koodztq8c">幸运破解器LuckyPatcher</a></li>
 </ul>
 
 <h4 id="核心破解">核心破解_降级安装app及覆盖安装不同签名软件，Xposed模块</h4>
