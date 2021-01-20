@@ -39,6 +39,16 @@
   <li><a href="http://www.supersu.com/download">SuperSU超级授权</a></li>
 </ul>
 
+<h4 id="Spatch">Spatch天鉴框架</h4>
+<ul>
+  <li><a href="https://github.com/lianglixin/SPatch/releases">Spatch天鉴</a></li>
+</ul>
+
+<h4 id="SandVXP">SandVXposed</h4>
+<ul>
+  <li><a href="https://www.coolapk.com/apk/io.virtualapp.sandvxposed">SandVXP</a></li>
+</ul>
+
 <h4 id="WXQX">微X和QX_微信QQ一键转发、抢红包、防撤回等增强功能，Xposed模块，fkzhang大神精品</h4>
 <ul>
   <li><a href="https://wwi.lanzous.com/b0d7o8kwf">微X和QX</a></li>
