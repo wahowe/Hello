@@ -23,9 +23,9 @@
 
 <h4 id="EdXposed">EdXposed框架<sup>[需Magisk]</sup>_EdXposed框架</h4>
 <ul>
-  <li><a href="https://edxp.meowcat.org/"EdXposed主页</a></li>
+  <li><a href="https://edxp.meowcat.org/">EdXposed官网</a></li>
   <li><a href="https://github.com/ElderDrivers/EdXposed/releases">Github发布页</a></li>
-  <li><a href="https://github.com/ElderDrivers/EdXposed/blob/master/README_CN.md">>EdXposed说明文档</a></li>
+  <li><a href="https://github.com/ElderDrivers/EdXposed/blob/master/README_CN.md">EdXposed说明文档</a></li>
   <li><a href="https://github.com/ElderDrivers/EdXposedManager/releases">EdXposedManager管理器</a></li> 
   <li><a href="https://github.com/RikkaApps/Riru/releases">Riru-Core模块</a></li>
   <li><a href="https://forum.xda-developers.com/t/official-edxposed-the-successor-of-xposed-oreo-pie-q-r-2020-07-19.4070199/">XDA发布页</a></li>
