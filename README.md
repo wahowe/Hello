@@ -86,7 +86,7 @@
 
 <h4 id="supersu">SuperSU超级授权<sup>[需root]</sup>_对安卓设备Root后进行权限管理</h4>
 <ul>
-  <li><a href="http://www.supersu.com/download">SuperSU超级授权</a></li>
+  <li><a href="https://www.coolapk.com/apk/eu.chainfire.supersu">SuperSU超级授权</a></li>
 </ul>
 
 <h4 id="幸运破解器">幸运破解器LuckyPatcher<sup>[需root]</sup>_核心破解，软件破解，去广告等，Xposed模块</h4>
