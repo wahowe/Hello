@@ -8,14 +8,14 @@
 
 <h4 id="软件分享列表">软件分享列表：</h4>
 
-<h4 id="Xposed框架">Xposed框架<sup>[需root]</sup>[支持安卓2.3-8.1]</h4>
+<h4 id="Xposed框架">Xposed框架<sup>[需root]</sup>【支持安卓2.3-8.1】</h4>
 <ul>
   <li><a href="https://forum.xda-developers.com/showthread.php?t=3034811">XposedInstaller3.1.5</a></li>
   <li><a href="https://www.coolapk.com/apk/de.robv.android.xposed.installer">XposedInstaller3.1.5酷安发布页</a></li>
   <li><a href="https://dl-xda.xposed.info/framework/">Xposed刷机包及卸载包</a></li>
 </ul>
 
-<h4 id="Magisk框架">Magisk框架<sup>[需解锁BL]</sup>_类Xposed框架，集成了root功能，既能OTA又能修改系统卸载预装软件[支持安卓4.2-11]</h4>
+<h4 id="Magisk框架">Magisk框架<sup>[需解锁BL]</sup>_类Xposed框架，集成了root功能，既能OTA又能修改系统卸载预装软件【支持安卓4.2-11】</h4>
 <ul>
   <li><a href="https://github.com/topjohnwu/Magisk/releases">Github发布页</a></li>
   <li><a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Magisk框架及卸载包最新版</a></li>  
