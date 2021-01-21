@@ -21,6 +21,16 @@
   <li><a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Magisk框架及卸载包最新版</a></li>  
 </ul>
 
+<h4 id="EdXposed">EdXposed框架<sup>[需Magisk]</sup>_EdXposed框架</h4>
+<ul>
+  <li><a href="https://edxp.meowcat.org/"EdXposed主页</a></li>
+  <li><a href="https://github.com/ElderDrivers/EdXposed/releases">Github发布页</a></li>
+  <li><a href="https://github.com/ElderDrivers/EdXposed/blob/master/README_CN.md">>EdXposed说明文档</a></li>
+  <li><a href="https://github.com/ElderDrivers/EdXposedManager/releases">EdXposedManager管理器</a></li> 
+  <li><a href="https://github.com/RikkaApps/Riru/releases">Riru-Core模块</a></li>
+  <li><a href="https://forum.xda-developers.com/t/official-edxposed-the-successor-of-xposed-oreo-pie-q-r-2020-07-19.4070199/">XDA发布页</a></li>
+</ul>
+
 <h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块</h4>
 <ul>
   <li><a href="https://taichi.cool/zh/">太极官网</a></li>
