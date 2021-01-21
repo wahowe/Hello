@@ -21,7 +21,7 @@
   <li><a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Magisk框架及卸载包最新版</a></li>  
 </ul>
 
-<h4 id="EdXposed">EdXposed框架<sup>[需Magisk]</sup>_EdXposed框架[支持安卓8.0-11]</h4>
+<h4 id="EdXposed">EdXposed框架<sup>[需Magisk]</sup>_EdXposed框架【支持安卓8.0-11】</h4>
 <ul>
   <li><a href="https://edxp.meowcat.org/">EdXposed官网</a></li>
   <li><a href="https://github.com/ElderDrivers/EdXposed/releases">Github发布页</a></li>
@@ -31,27 +31,32 @@
   <li><a href="https://forum.xda-developers.com/t/official-edxposed-the-successor-of-xposed-oreo-pie-q-r-2020-07-19.4070199/">XDA发布页</a></li>
 </ul>
 
-<h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块[支持安卓5.0-11]</h4>
+<h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块【支持安卓5.0-11】</h4>
 <ul>
   <li><a href="https://taichi.cool/zh/">太极官网</a></li>
   <li><a href="https://www.taichi-app.com">太极新官网</a></li>
   <li><a href="https://www.lanzous.com/b632846">太极APP网盘下载</a></li>
 </ul>
 
-<h4 id="VirtualXposed">VirtualXposed_免解锁、免root、免修改系统使用Xposed模块及多开软件[支持安卓5.0-10]</h4>
+<h4 id="VirtualXposed">VirtualXposed_免解锁、免root、免修改系统使用Xposed模块及多开软件【支持安卓5.0-10】</h4>
 <ul>
   <li><a href="https://github.com/android-hacker/VirtualXposed/releases">Github发布页</a></li>
   <li><a href="http://vxposed.com/">VirtualXposed官网</a></li>
   <li><a href="https://www.lanzous.com/b633812">VirtualXposed网盘下载</a></li>
 </ul>
 
-<h4 id="Spatch">Spatch天鉴[支持安卓8.0-11]</h4>
+<h4 id="Spatch">Spatch天鉴【支持安卓8.0-11】</h4>
 <ul>
   <li><a href="http://spatch.die.lu">天鉴官网</a></li>
   <li><a href="https://github.com/lianglixin/SPatch/releases">Spatch天鉴</a></li>
 </ul>
 
-<h4 id="SandVXP">SandVXposed[支持安卓4.4-11]</h4>
+<h4 id="twrp">第三方Twrp recovery</h4>
+<ul>
+  <li><a href="https://twrp.me/">Twrp rec</a></li>
+</ul>
+
+<h4 id="SandVXP">SandVXposed【支持安卓4.4-11】</h4>
 <ul>
   <li><a href="https://www.coolapk.com/apk/io.virtualapp.sandvxposed">SandVXP</a></li>
 </ul>
@@ -86,7 +91,7 @@
 
 <h4 id="supersu">SuperSU超级授权<sup>[需root]</sup>_对安卓设备Root后进行权限管理</h4>
 <ul>
-  <li><a href="https://www.coolapk.com/apk/eu.chainfire.supersu">SuperSU超级授权</a></li>
+  <li><a href="https://forum.xda-developers.com/f/supersu.3522/">SuperSU超级授权</a></li>
 </ul>
 
 <h4 id="幸运破解器">幸运破解器LuckyPatcher<sup>[需root]</sup>_核心破解，软件破解，去广告等，Xposed模块</h4>
