@@ -8,20 +8,20 @@
 
 <h4 id="软件分享列表">软件分享列表：</h4>
 
-<h4 id="Xposed框架">Xposed框架<sup>[需root]</sup></h4>
+<h4 id="Xposed框架">Xposed框架<sup>[需root]</sup>[支持安卓2.3-8.1]</h4>
 <ul>
   <li><a href="https://forum.xda-developers.com/showthread.php?t=3034811">XposedInstaller3.1.5</a></li>
   <li><a href="https://www.coolapk.com/apk/de.robv.android.xposed.installer">XposedInstaller3.1.5酷安发布页</a></li>
   <li><a href="https://dl-xda.xposed.info/framework/">Xposed刷机包及卸载包</a></li>
 </ul>
 
-<h4 id="Magisk框架">Magisk框架<sup>[需解锁BL]</sup>_类Xposed框架，集成了root功能，既能OTA又能修改系统卸载预装软件</h4>
+<h4 id="Magisk框架">Magisk框架<sup>[需解锁BL]</sup>_类Xposed框架，集成了root功能，既能OTA又能修改系统卸载预装软件[支持安卓4.2-11]</h4>
 <ul>
   <li><a href="https://github.com/topjohnwu/Magisk/releases">Github发布页</a></li>
   <li><a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Magisk框架及卸载包最新版</a></li>  
 </ul>
 
-<h4 id="EdXposed">EdXposed框架<sup>[需Magisk]</sup>_EdXposed框架</h4>
+<h4 id="EdXposed">EdXposed框架<sup>[需Magisk]</sup>_EdXposed框架[支持安卓8.0-11]</h4>
 <ul>
   <li><a href="https://edxp.meowcat.org/">EdXposed官网</a></li>
   <li><a href="https://github.com/ElderDrivers/EdXposed/releases">Github发布页</a></li>
@@ -31,27 +31,27 @@
   <li><a href="https://forum.xda-developers.com/t/official-edxposed-the-successor-of-xposed-oreo-pie-q-r-2020-07-19.4070199/">XDA发布页</a></li>
 </ul>
 
-<h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块</h4>
+<h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块[支持安卓5.0-11]</h4>
 <ul>
   <li><a href="https://taichi.cool/zh/">太极官网</a></li>
   <li><a href="https://www.taichi-app.com">太极新官网</a></li>
   <li><a href="https://www.lanzous.com/b632846">太极APP网盘下载</a></li>
 </ul>
 
-<h4 id="VirtualXposed">VirtualXposed_免解锁、免root、免修改系统使用Xposed模块及多开软件</h4>
+<h4 id="VirtualXposed">VirtualXposed_免解锁、免root、免修改系统使用Xposed模块及多开软件[支持安卓5.0-10]</h4>
 <ul>
   <li><a href="https://github.com/android-hacker/VirtualXposed/releases">Github发布页</a></li>
   <li><a href="http://vxposed.com/">VirtualXposed官网</a></li>
   <li><a href="https://www.lanzous.com/b633812">VirtualXposed网盘下载</a></li>
 </ul>
 
-<h4 id="Spatch">Spatch天鉴</h4>
+<h4 id="Spatch">Spatch天鉴[支持安卓8.0-11]</h4>
 <ul>
   <li><a href="http://spatch.die.lu">天鉴官网</a></li>
   <li><a href="https://github.com/lianglixin/SPatch/releases">Spatch天鉴</a></li>
 </ul>
 
-<h4 id="SandVXP">SandVXposed</h4>
+<h4 id="SandVXP">SandVXposed[支持安卓4.4-11]</h4>
 <ul>
   <li><a href="https://www.coolapk.com/apk/io.virtualapp.sandvxposed">SandVXP</a></li>
 </ul>
