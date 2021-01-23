@@ -51,14 +51,14 @@
   <li><a href="https://github.com/lianglixin/SPatch/releases">Spatch天鉴</a></li>
 </ul>
 
-<h4 id="twrp">第三方Twrp recovery</h4>
-<ul>
-  <li><a href="https://twrp.me/">Twrp rec</a></li>
-</ul>
-
 <h4 id="SandVXP">SandVXposed【支持安卓4.4-11】</h4>
 <ul>
   <li><a href="https://www.coolapk.com/apk/io.virtualapp.sandvxposed">SandVXP</a></li>
+</ul>
+
+<h4 id="twrp">第三方Twrp recovery</h4>
+<ul>
+  <li><a href="https://twrp.me/">Twrp rec</a></li>
 </ul>
 
 <h4 id="WXQX">微X和QX_微信QQ一键转发、抢红包、防撤回等增强功能，Xposed模块，fkzhang大神精品</h4>
