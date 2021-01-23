@@ -158,6 +158,7 @@
   <li><a href="https://www.feng.com">威锋iPhone论坛</a></li>
   <li><a href="https://www.i4.cn">爱思助手</a></li>
   <li><a href="https://www.abcydia.com">雷锋源中文网</a></li>
+  <li><a href="https://dkxuanye.cn">玄烨果品（越狱&绕ID）</a></li>
 </ol>
 
 <div align="center">科技引领生活 
