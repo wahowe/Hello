@@ -163,6 +163,7 @@
   <li><a href="https://repo.xposed.info/module-overview">Xposed模块下载站</a></li>
   <li><a href="http://www.52pojie.cn">吾爱破解论坛</a></li>
   <li><a href="http://bbs.zhiyoo.net">智友论坛</a></li>
+  <li><a href="https://miuiver.com">小米各机型MIUI历史版本</a></li>
   <li><a href="https://www.feng.com">威锋iPhone论坛</a></li>
   <li><a href="https://www.i4.cn">爱思助手</a></li>
   <li><a href="https://www.abcydia.com">雷锋源中文网</a></li>
