@@ -129,7 +129,7 @@
 
 <h4 id="双开软件">双开多开软件_微信、QQ及软件双开多开</h4>
 <ul>
-  <li><a href="链接：https://pan.baidu.com/s/1GQwH8Wj3CaOCNCmyMa--0g">多开软件 提取码：6666</a></li>
+  <li><a href="链接：链接：https://pan.baidu.com/s/1TaEhb0VsG5K7vHyTHC_ThA">多开软件 提取码：6666</a></li>
 </ul>
 
 <h4 id="Xposed模块仓库">Xposed模块仓库_Xposed模块下载基地</h4>
