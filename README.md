@@ -31,12 +31,12 @@
   <li><a href="https://forum.xda-developers.com/t/official-edxposed-the-successor-of-xposed-oreo-pie-q-r-2020-07-19.4070199/">XDA发布页</a></li>
 </ul>
 
-<h4 id="LOSposed">LOSposed老色批框架<sup>[需Magisk]</sup>_LOSposed老色批框架【支持安卓8.1-11】</h4>
+<h4 id="LOSposed">LSPosed老色批框架<sup>[需Magisk]</sup>_LSPosed老色批框架【支持安卓8.1-11】</h4>
 <ul>
-  <li><a href="https://www.coolapk.com/feed/24540171?shareKey=ZjkxOWI2NTc3OGQ2NjAxNzUyNjg~&shareUid=579564&shareFrom=com.coolapk.market_11.0">LOSposed介绍页</a></li>
-  <li><a href="https://github.com/LSPosed/LSPosed">LOSposed源码</a></li>
-  <li><a href="https://cloud.189.cn/t/RzEbAvJnMzEf">LOSposed网盘下载</a></li>
-  <li><a href="https://cloud.189.cn/t/a226faRF7vI3">LOSposed manage网盘下载</a></li>
+  <li><a href="https://www.coolapk.com/feed/24540171?shareKey=ZjkxOWI2NTc3OGQ2NjAxNzUyNjg~&shareUid=579564&shareFrom=com.coolapk.market_11.0">LSPosed介绍页</a></li>
+  <li><a href="https://github.com/LSPosed/LSPosed">LSPosed源码</a></li>
+  <li><a href="https://cloud.189.cn/t/RzEbAvJnMzEf">LSPosed网盘下载</a></li>
+  <li><a href="https://cloud.189.cn/t/a226faRF7vI3">LSPosed manage网盘下载</a></li>
 </ul>
 
 <h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块【支持安卓5.0-11】</h4>
