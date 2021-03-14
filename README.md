@@ -35,8 +35,7 @@
 <ul>
   <li><a href="https://www.coolapk.com/feed/24540171?shareKey=ZjkxOWI2NTc3OGQ2NjAxNzUyNjg~&shareUid=579564&shareFrom=com.coolapk.market_11.0">LSPosed介绍页</a></li>
   <li><a href="https://github.com/LSPosed/LSPosed">LSPosed源码</a></li>
-  <li><a href="https://cloud.189.cn/t/RzEbAvJnMzEf">LSPosed网盘下载</a></li>
-  <li><a href="https://cloud.189.cn/t/a226faRF7vI3">LSPosed manage网盘下载</a></li>
+  <li><a href="https://github.com/LSPosed/LSPosed/releases">LSPosed和LSPosed manager下载</a></li>
 </ul>
 
 <h4 id="taichi">太极taichi_免解锁、免root、免修改系统使用Xposed模块【支持安卓5.0-11】</h4>
@@ -125,11 +124,6 @@
 <h4 id="FFmpeg媒体编码器">FFmpeg Media Encoder媒体编码器_视频压缩神器</h4>
 <ul>
   <li><a href="https://pan.baidu.com/s/1ggigJpp">FFmpeg媒体编码器0.97.5清爽版</a></li>
-</ul>
-
-<h4 id="双开软件">双开多开软件_微信、QQ及软件双开多开</h4>
-<ul>
-  <li><a href="链接：链接：https://pan.baidu.com/s/1TaEhb0VsG5K7vHyTHC_ThA">多开软件 提取码：6666</a></li>
 </ul>
 
 <h4 id="Xposed模块仓库">Xposed模块仓库_Xposed模块下载基地</h4>
